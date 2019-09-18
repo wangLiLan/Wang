@@ -1,0 +1,6 @@
+spring:
+  database:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///lucene
+    username: root
+    password: root
